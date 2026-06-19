@@ -1,5 +1,5 @@
-## Decodelabs Internship Task 2
-# 📊 Exploratory Data Analysis (EDA) in Excel – Project 2 Complete!
+# Decodelabs Internship Task 2
+## 📊 Exploratory Data Analysis (EDA) in Excel – Project 2 Complete!
 
  This project was all about interrogating data to uncover the story before building any dashboards or models.
 
